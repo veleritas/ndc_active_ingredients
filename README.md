@@ -16,10 +16,12 @@ To generate a mapping of NDCs to identifiers for the active ingredients.
 
 ## Environment Settings
 
-Written for Linux environments.
+Written in Python 3 for Linux environments.
 
 Required command line utilities:
-* dos2unix
-* unzip
+* `dos2unix`
+* `unzip`
 
-
+Required Python packages:
+* `pandas`
+* `jupyter`
