@@ -4,7 +4,7 @@
 
 echo "Downloading latest version of NDC data from the FDA"
 
-cd ../data/ndc_info
+cd ../../data/ndc_info
 
 wget https://www.accessdata.fda.gov/cder/ndctext.zip
 
