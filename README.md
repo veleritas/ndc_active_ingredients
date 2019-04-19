@@ -13,3 +13,15 @@ However, it is not clear what the actual active ingredients of a drug are based 
 ## Purpose
 
 To generate a mapping of NDCs to identifiers for the active ingredients.
+
+## Environment Settings
+
+Written in Python 3 for Linux environments.
+
+Required command line utilities:
+* `dos2unix`
+* `unzip`
+
+Required Python packages:
+* `pandas`
+* `jupyter`
