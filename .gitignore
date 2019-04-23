@@ -5,3 +5,5 @@ data/rxnorm/RXNSAT.RRF
 data/rxnorm/RXNREL.RRF
 
 pipeline/fda_ndc/ndc_info.tsv
+
+pipeline/rxnorm/rxcui_rels.tsv
