@@ -8,7 +8,8 @@ The RxNorm data used for analysis is stored here. A license is required to [down
 
 After downloading RxNorm, extract the `zip` file. The files mentioned below can be found in the `rrf/` folder.
 
-* `MRSAT.RRF`: Attributes. This file contains the necessary mappings from RxNorm CUIs to National Drug Codes.
+* `RXNSAT.RRF`: Attributes. This file contains the necessary mappings from RxNorm CUIs to National Drug Codes.
+* `RXNREL.RRF`: Relationships. This file contains the RxNorm semantic network.
 
 ## RxNorm Version
 
