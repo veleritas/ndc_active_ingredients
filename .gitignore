@@ -4,6 +4,8 @@ venv/
 data/rxnorm/RXNSAT.RRF
 data/rxnorm/RXNREL.RRF
 
+pipeline/merged_ndc_info.tsv
+
 pipeline/fda_ndc/ndc_info.tsv
 
 pipeline/rxnorm/rxcui_rels.tsv
