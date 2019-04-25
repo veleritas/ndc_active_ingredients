@@ -10,3 +10,4 @@ We use RxNorm's semantic network to map the NDCs to active ingredient identifier
 ## Pipeline
 
 1. Follow the README in the `fda_ndc/` folder to generate a list of all NDCs published by the FDA.
+2. Follow the README in the `rxnorm/` folder to generate the NDC to RXCUI identifier mappings. Also parses the RxNorm semantic network.
