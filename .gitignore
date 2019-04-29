@@ -3,6 +3,7 @@ venv/
 
 data/rxnorm/RXNSAT.RRF
 data/rxnorm/RXNREL.RRF
+data/rxnorm/RXNCONSO.RRF
 
 pipeline/merged_ndc_info.tsv
 
