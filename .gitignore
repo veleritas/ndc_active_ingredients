@@ -12,5 +12,6 @@ pipeline/fda_ndc/ndc_info.tsv
 pipeline/rxnorm/rxcui_rels.tsv
 pipeline/rxnorm/raw_ndc_info.tsv
 pipeline/rxnorm/ndc_to_rxcui.tsv
+pipeline/rxnorm/rxconso_info.tsv
 
 pipeline/ingredients/
