@@ -10,6 +10,7 @@ After downloading RxNorm, extract the `zip` file. The files mentioned below can 
 
 * `RXNSAT.RRF`: Attributes. This file contains the necessary mappings from RxNorm CUIs to National Drug Codes.
 * `RXNREL.RRF`: Relationships. This file contains the RxNorm semantic network.
+* `RXNCONSO.RRF`: Concept names and sources. This file contains the names of RxNorm concepts and their term types.
 
 ## RxNorm Version
 
