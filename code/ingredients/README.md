@@ -8,3 +8,4 @@ The code in this directory contains the algorithm for determining the active ing
 2. Run `determine_active_ingredients.ipynb` to determine the active ingredients of each RXCUI.
 3. Run `generate_mapping_table.ipynb` to consolidate active ingredients at the NDC (not RXCUI) level.
 4. Run `validate_mapping_results.ipynb` to check that the generated active ingredient information is correct.
+5. Run `generate_final_mapping.ipynb` to create the final output table.
