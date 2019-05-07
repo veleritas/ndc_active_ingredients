@@ -14,4 +14,4 @@ After downloading RxNorm, extract the `zip` file. The files mentioned below can 
 
 ## RxNorm Version
 
-The version of RxNorm used is the 2019-04-01 release (`md5sum a4d6a89c32f67c4587a71eacbba26caa`).
+The version of RxNorm used is the 2019-05-06 release (`md5sum 15ce0ee05d552b1c391a4e1307c009f8`).
