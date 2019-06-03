@@ -2,7 +2,7 @@
 
 Tong Shu Li
 
-Last updated: 2019-05-07
+Last updated: 2019-06-03
 
 ## Background
 
@@ -25,3 +25,9 @@ Required command line utilities:
 Required Python packages:
 * `pandas`
 * `jupyter`
+
+## Directory Contents
+
+* `code/`: All code for determining the active ingredients.
+* `data/`: Source data from the FDA and RxNorm.
+* `pipeline/`: Intermediate processing results.
