@@ -13,8 +13,13 @@ However, it is not clear what the actual active ingredients of a drug are based 
 ## Purpose
 
 To generate a mapping of NDCs to identifiers for the active ingredients.
+This repository converts NDCs to all the RxNorm identifiers for the active and precise ingredients by traversing the RxNorm relationship graph.
 
-## Environment Settings
+## Usage
+
+Install the required dependencies, then run the Jupyer notebooks in `code/`.
+
+### Environment Settings
 
 Written in Python 3 for Linux environments.
 
@@ -26,7 +31,7 @@ Required Python packages:
 * `pandas`
 * `jupyter`
 
-## Directory Contents
+### Directory Contents
 
 * `code/`: All code for determining the active ingredients.
 * `data/`: Source data from the FDA and RxNorm.
